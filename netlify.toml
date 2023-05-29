@@ -17,9 +17,6 @@
   # Default build command.
   # command = "echo 'default context'"
 
-[[plugins]]
-  # Installs the Lighthouse Build Plugin for all deploy contexts
-  package = "@netlify/plugin-lighthouse"
 
 # Production context: all deploys from the Production branch
 # set in your site’s Branches settings in the UI will inherit
