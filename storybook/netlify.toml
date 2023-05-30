@@ -15,7 +15,7 @@
   publish = "storybook/storybook-static/"
 
   # Default build command.
-  # command = "echo 'default context'"
+  command = "npm run build-storybook"
 
 
 # Production context: all deploys from the Production branch
