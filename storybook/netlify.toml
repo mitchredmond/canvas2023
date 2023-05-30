@@ -25,5 +25,5 @@
 # values to keep them out of your source repository.
 [context.production]
   publish = "storybook/storybook-static/"
-  command = "npm run storybook"
-#  environment = { NODE_VERSION = "14.15.3" }
+  command = "npm run"
+  environment = { NODE_VERSION = "20.0.0" }
