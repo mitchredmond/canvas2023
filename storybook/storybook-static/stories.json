@@ -3,12 +3,12 @@
   "stories": {
     "example-introduction--docs": {
       "id": "example-introduction--docs",
-      "title": "Example/Introduction",
+      "title": "Atom/Introduction",
       "name": "Docs",
       "importPath": "./src/stories/Introduction.mdx",
       "storiesImports": [],
       "tags": ["unattached-mdx", "docs"],
-      "kind": "Example/Introduction",
+      "kind": "Atom/Introduction",
       "story": "Docs",
       "parameters": {
         "__id": "example-introduction--docs",
@@ -18,12 +18,12 @@
     },
     "example-button--docs": {
       "id": "example-button--docs",
-      "title": "Example/Button",
+      "title": "Atom/Button",
       "name": "Docs",
       "importPath": "./src/stories/Button.stories.js",
       "tags": ["autodocs", "docs"],
       "storiesImports": [],
-      "kind": "Example/Button",
+      "kind": "Atom/Button",
       "story": "Docs",
       "parameters": {
         "__id": "example-button--docs",
@@ -33,11 +33,11 @@
     },
     "example-button--primary": {
       "id": "example-button--primary",
-      "title": "Example/Button",
+      "title": "Atom/Button",
       "name": "Primary",
       "importPath": "./src/stories/Button.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Button",
+      "kind": "Atom/Button",
       "story": "Primary",
       "parameters": {
         "__id": "example-button--primary",
@@ -47,11 +47,11 @@
     },
     "example-button--secondary": {
       "id": "example-button--secondary",
-      "title": "Example/Button",
+      "title": "Atom/Button",
       "name": "Secondary",
       "importPath": "./src/stories/Button.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Button",
+      "kind": "Atom/Button",
       "story": "Secondary",
       "parameters": {
         "__id": "example-button--secondary",
@@ -61,11 +61,11 @@
     },
     "example-button--large": {
       "id": "example-button--large",
-      "title": "Example/Button",
+      "title": "Atom/Button",
       "name": "Large",
       "importPath": "./src/stories/Button.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Button",
+      "kind": "Atom/Button",
       "story": "Large",
       "parameters": {
         "__id": "example-button--large",
@@ -75,11 +75,11 @@
     },
     "example-button--small": {
       "id": "example-button--small",
-      "title": "Example/Button",
+      "title": "Atom/Button",
       "name": "Small",
       "importPath": "./src/stories/Button.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Button",
+      "kind": "Atom/Button",
       "story": "Small",
       "parameters": {
         "__id": "example-button--small",
@@ -89,12 +89,12 @@
     },
     "example-header--docs": {
       "id": "example-header--docs",
-      "title": "Example/Header",
+      "title": "Atom/Header",
       "name": "Docs",
       "importPath": "./src/stories/Header.stories.js",
       "tags": ["autodocs", "docs"],
       "storiesImports": [],
-      "kind": "Example/Header",
+      "kind": "Atom/Header",
       "story": "Docs",
       "parameters": {
         "__id": "example-header--docs",
@@ -104,11 +104,11 @@
     },
     "example-header--logged-in": {
       "id": "example-header--logged-in",
-      "title": "Example/Header",
+      "title": "Atom/Header",
       "name": "Logged In",
       "importPath": "./src/stories/Header.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Header",
+      "kind": "Atom/Header",
       "story": "Logged In",
       "parameters": {
         "__id": "example-header--logged-in",
@@ -118,11 +118,11 @@
     },
     "example-header--logged-out": {
       "id": "example-header--logged-out",
-      "title": "Example/Header",
+      "title": "Atom/Header",
       "name": "Logged Out",
       "importPath": "./src/stories/Header.stories.js",
       "tags": ["autodocs", "story"],
-      "kind": "Example/Header",
+      "kind": "Atom/Header",
       "story": "Logged Out",
       "parameters": {
         "__id": "example-header--logged-out",
@@ -132,11 +132,11 @@
     },
     "example-page--logged-out": {
       "id": "example-page--logged-out",
-      "title": "Example/Page",
+      "title": "Atom/Page",
       "name": "Logged Out",
       "importPath": "./src/stories/Page.stories.js",
       "tags": ["story"],
-      "kind": "Example/Page",
+      "kind": "Atom/Page",
       "story": "Logged Out",
       "parameters": {
         "__id": "example-page--logged-out",
@@ -146,11 +146,11 @@
     },
     "example-page--logged-in": {
       "id": "example-page--logged-in",
-      "title": "Example/Page",
+      "title": "Atom/Page",
       "name": "Logged In",
       "importPath": "./src/stories/Page.stories.js",
       "tags": ["play-fn", "story"],
-      "kind": "Example/Page",
+      "kind": "Atom/Page",
       "story": "Logged In",
       "parameters": {
         "__id": "example-page--logged-in",
